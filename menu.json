@@ -1,0 +1,50 @@
+[
+  {
+    "id": "benny_burger",
+    "name": "Benny Burger",
+    "category": "Burgers",
+    "price_cents": 1099
+  },
+  {
+    "id": "double_burger",
+    "name": "Double Benny Burger",
+    "category": "Burgers",
+    "price_cents": 1499
+  },
+  {
+    "id": "chicken_sandwich",
+    "name": "Crispy Chicken Sandwich",
+    "category": "Sandwiches",
+    "price_cents": 1199
+  },
+  {
+    "id": "burger_combo",
+    "name": "Burger Combo",
+    "category": "Combos",
+    "price_cents": 1599
+  },
+  {
+    "id": "fries",
+    "name": "Seasoned Fries",
+    "category": "Sides",
+    "price_cents": 399
+  },
+  {
+    "id": "onion_rings",
+    "name": "Onion Rings",
+    "category": "Sides",
+    "price_cents": 499
+  },
+  {
+    "id": "soda",
+    "name": "Fountain Drink",
+    "category": "Drinks",
+    "price_cents": 249
+  },
+  {
+    "id": "milkshake",
+    "name": "Milkshake",
+    "category": "Drinks",
+    "price_cents": 599
+  }
+]
